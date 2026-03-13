@@ -1,0 +1,28 @@
+## Editor & OS junk
+.DS_Store
+Thumbs.db
+
+## IDE settings
+.vscode/
+.idea/
+
+## Node / JS tooling
+node_modules/
+dist/
+build/
+
+## Python / general env
+.env
+.venv/
+__pycache__/
+
+## Cursor / AI tooling
+.cursor/*
+
+## Keep shared project skills so others can use them
+!.cursor/skills/
+!.cursor/skills/localai-developer/
+!.cursor/skills/localai-developer/SKILL.md
+!.cursor/skills/localai-locale-author/
+!.cursor/skills/localai-locale-author/SKILL.md
+
